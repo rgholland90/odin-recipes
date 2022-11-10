@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+  color: white;
+  background-color: black;
+}
+
+li {
+  margin: 5px;
+}
+
+.description-text {
+    font-size: 1.25rem;
+    font-style: italic;
+}
